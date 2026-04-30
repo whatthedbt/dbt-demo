@@ -1,1 +1,0 @@
-select * from {{ ref('first_class_orders')}} where ordercostprice > 400
