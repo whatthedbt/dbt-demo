@@ -3,4 +3,4 @@
         materialized='table'
     )
 }}
-select * From raw.retail_db.order_items
+select * From {{ source('my_new_project', 'order_items') }}

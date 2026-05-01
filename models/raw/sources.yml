@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: my_new_project
+    database: raw
+    schema: retail_db
+    tables:
+      - name: customers
+      - name: orders
+      - name: order_details
+      - name: departments
