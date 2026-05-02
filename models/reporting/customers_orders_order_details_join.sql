@@ -1,5 +1,7 @@
 {{ config(materialized="table") }}
 
+{# Creating a variable #}
+{% set quantity = 2 %}
 
 select
     c.customer_id,
@@ -11,4 +13,4 @@ select
 from {{ ref("customers_raw") }} as c
 left join {{ ref("orders_raw") }} as o on c.customer_id = o.order_customer_id
 left join {{ ref("order_items_raw") }} as i on o.order_id = i.order_item_order_id
-where i.order_item_quantity > 2
+where i.order_item_quantity > {{ quantity }}

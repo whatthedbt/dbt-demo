@@ -12,4 +12,4 @@ with
         order by i.order_item_product_price desc
     )
 
-select * from expensive_items
+select * from expensive_items 
