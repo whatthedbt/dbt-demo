@@ -1,0 +1,13 @@
+"CUSTOMER_ID","CUSTOMER_NAME","EMAIL","CITY","CREATED_AT"
+1,"Alice Johnson","alice@example.com","New York",2023-01-10
+2,"Bob Smith","bob@example.com","Chicago",2023-02-15
+3,"Charlie Brown","charlie@example.com","Los Angeles",2023-03-20
+4,"Diana Prince","diana@example.com","Houston",2023-04-05
+5,"Ethan Hunt","ethan@example.com","Seattle",2023-05-12
+6,"Fiona Gallagher","fiona@example.com","Boston",2023-06-18
+7,"George Miller","george@example.com","Miami",2023-07-01
+8,"Hannah Lee","hannah@example.com","San Francisco",2023-07-03
+9,"Ivan Petrov","ivan@example.com","Denver",2023-07-05
+10,"Julia Roberts","julia@example.com","Austin",2023-07-07
+11,"Kevin Hart","kevin@example.com","Atlanta",2023-07-10
+12,"Laura Palmer","laura@example.com","Portland",2023-07-12
