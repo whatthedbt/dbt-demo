@@ -10,3 +10,16 @@ sources:
       - name: order_items
       - name: departments
       - name: categories
+
+  - name: retailer
+    database: raw
+    schema: retailer
+    tables: 
+      - name: customers
+      - name: orders
+      - name: products
+      - name: order_items
+      - name: departments
+      - name: categories
+
+      
