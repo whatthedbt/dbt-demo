@@ -1,0 +1,114 @@
+id,name,batch,gotJob,salary,email,state,dob,gender,countryOfOrigin,rating,skills
+1,arif,B-16,true,120000,arif@gmail.com,NY,17=06=1987,M,Bangladesh,4.1,Spark:Kafka:NiFi:Aws
+2,idul,B-16,Dropout,0,idul@yahoo.com,NY,18=06=1992,M,Bangladesh,4.7,Kafka:Python:Sqoop:Docker
+3,Fabiha,B-16,true,110000,fabiha@aol.com,TX,19=06=1998,F,Bangladesh,3.8,Airflow:Confluent Kafka:Azure:Spark
+4,Nimia,B-16,Dropout,0,nimia@gmail.com,NY,20=06=1999,F,Bangladesh,3.6,Hadoop:Hive:Google Cloud:Python
+5,Shakil,B-16,true,100000,shakil@yahoo.com,NJ,21=06=1997,M,Bangladesh,3.5,Java:Spark:Kafka:Scala:Github
+6,Md.Haque,B-16,Dropout,0,haque@yahoo.com,CT,22=06=1991,M,Bangladesh,3.7,Spark:Airflow:Aws:Kafka:Zeppelin
+7,Hasan,B-16,true,130000,hasan@aol.com,NY,23=06=1983,M,Bangladesh,4.6,Databricks:NiFi:Java:Python:Hive
+8,Taifa,B-16,true,120000,taifa@gmail.com,CT,24=06=1986,F,Bangladesh,3.7,Spark:Airflow:Aws:Kafka:Zeppelin
+9,Lucky,B-16,Dropout,0,lucky@gmail.com,NY,25=06=1980,F,Bangladesh,2.7,Airflow:Confluent Kafka:Azure:Spark
+10,Akbar,B-16,true,120000,akbar@yahoo.com,VI,26=06=1987,M,Bangladesh,4.2,Spark:Kafka:NiFi:Aws
+11,Hira,B-16,Dropout,0,hira@gmail.com,NY,27=06=1984,M,Bangladesh,4.5,Kafka:Python:Sqoop:Docker
+12,Parvez,B-16,Dropout,0,parvez@aol.com,NY,28=06=1987,M,Bangladesh,2.5,Airflow:Confluent Kafka:Azure:Spark
+13,NurunNahar,B-16,Dropout,0,nurun@gmail.com,NY,29=06=1989,F,Bangladesh,2.9,Hadoop:Hive:Google Cloud:Python
+14,Adnan,B-17,Dropout,0,adnan@yandex.com,FL,30=06=1985,M,Bangladesh,4.4,Java:Spark:Kafka:Scala:Github
+16,Raj,B-17,true,120000,raj@yahoo.com,TX,02=07=1987,M,Nepal,4.9,Databricks:NiFi:Java:Python:Hive
+17,Suresh,B-17,Dropout,0,suresh@gmail.com,TX,03=07=1988,M,Nepal,3.7,Airflow:Confluent Kafka:Azure:Spark
+18,Sadat,B-17,Dropout,0,sadat@aol.com,FL,04=07=1984,M,Bangladesh,3.5,Spark:Kafka:NiFi:Aws
+19,Masnoon,B-17,Dropout,0,masnoon@gmail.com,NJ,05=07=1981,M,Bangladesh,3.6,Kafka:Python:Sqoop:Docker
+20,Ahad,B-17,true,1400000,ahad@yahoo.com,NY,06=07=1997,M,Bangladesh,3.3,Airflow:Confluent Kafka:Azure:Spark
+21,Faruk,B-17,Dropout,0,faruk@gmail.com,NY,07=07=1983,M,Bangladesh,3.4,Java:Spark:Kafka:Scala:Github
+22,Jamal,B-17,true,110000,jamal@yahoo.com,FL,08=07=1989,M,Bangladesh,4.1,Spark:Airflow:Aws:Kafka:Zeppelin
+23,Haque,B-17,true,130000,haque@gmail.com,CT,09=07=1987,M,Bangladesh,4.8,Databricks:NiFi:Java:Python:Hive
+24,Anto,B-17,Dropout,0,anto@yahoo.com,CT,10=07=2000,F,Bangladesh,3.1,Kafka:Python:Sqoop:Docker
+25,Sharmin,B-17,true,120000,sharmin@gmail.com,FL,29=02=1988,F,Bangladesh,3.6,Spark:Kafka:NiFi:Aws
+26,Shahid,B-17,true,115000,shahid@yahoo.com,NY,12=07=1983,M,Bangladesh,3.9,Spark:Kafka:NiFi:Aws
+27,Merina,B-17,Dropout,0,merina@yahoo.com,NJ,13=07=1980,F,Bangladesh,3.4,Kafka:Python:Sqoop:Docker
+28,Hussain,B-17,true,120000,hussain@gmail.com,TX,09=07=1987,M,Jordan,4.6,Airflow:Confluent Kafka:Azure:Spark
+29,Shihab,B-18,true,145000,shihab@yahoo.com,NY,14=07=1985,M,Bangladesh,3.9,Hadoop:Hive:Google Cloud:Python
+100,Alvi,B-18,true,120000,alvi@yahoo.com,NJ,11=03=1992,M,Bangladesh,3.6,Java:Spark:Kafka:Scala:Github
+30,Arafin,B-18,true,120000,arafin@gmail.com,NJ,15=07=1988,M,Bangladesh,4.1,Spark:Airflow:Aws:Kafka:Zeppelin
+31,Faruk,B-18,true,110000,faruk@gmail.com,NY,16=07=1981,M,Bangladesh,3.5,Databricks:NiFi:Java:Python:Hive
+32,Mahbub,B-18,Dropout,0,mahbub@yandex.com,FL,17=11=1982,M,Bangladesh,3.6,Kafka:Python:Sqoop:Docker
+33,Mahfuzur,B-18,Dropout,0,mahfuz@gmail.com,TX,18=07=1983,M,Bangladesh,3.6,Airflow:Confluent Kafka:Azure:Spark
+34,Jitu,B-18,Dropout,0,jitu@apache.com,NY,19=07=1989,M,Bangladesh,3.9,Hadoop:Hive:Google Cloud:Python
+35,Hossen,B-18,Dropout,0,hossen@yahoo.com,NY,20=07=1988,M,Bangladesh,3.2,Java:Spark:Kafka:Scala:Github
+36,Rajib,B-18,Dropout,0,rajib@gmail.com,TX,21=07=1986,M,Bangladesh,3.1,Spark:Kafka:NiFi:Aws
+37,Rahman,B-18,Dropout,0,rahman@gmail.com,FL,22=07=1985,M,Bangladesh,4.0,Spark:Airflow:Aws:Kafka:Zeppelin
+38,Forhad,B-18,Dropout,0,forhad@gmail.com,NY,23=07=1990,M,Bangladesh,3.6,Databricks:NiFi:Java:Python:Hive
+39,Arif,B-18,true,120000,arif@gmail.com,CL,24=07=1993,M,Bangladesh,4.1,Kafka:Python:Sqoop:Docker
+40,Shazada,B-18,Dropout,0,shazada@gmail.com,NY,25=07=1997,M,Bangladesh,3.0,Airflow:Confluent Kafka:Azure:Spark
+41,Hasan,B-20,true,125000,hasan@aol.com,TX,26=07=1994,M,Palestine,3.5,Hadoop:Hive:Google Cloud:Python
+42,Mamun,B-20,true,120000,mamun@gmail.com,NY,27=07=1992,M,Bangladesh,3.9,Java:Spark:Kafka:Scala:Github
+43,Rasel,B-20,true,110000,rasel@yahoo.com,CL,28=07=1995,M,Bangladesh,4.3,Spark:Airflow:Aws:Kafka:Zeppelin
+44,Ahad,B-20,Dropout,0,ahad@rediff.com,NY,29=07=1990,M,Bangladesh,3.1,Spark:Kafka:NiFi:Aws
+45,Muneeza,B-20,true,120000,muneza@gmail.com,NJ,30=07=1987,F,Pakistan,4.4,Databricks:NiFi:Java:Python:Hive
+46,Ali,B-20,true,0,ali@gmail.com,NY,31=07=1983,M,Bangladesh,2.2,Kafka:Python:Sqoop:Docker
+47,Nurul,B-20,true,130000,nurul@yahoo.com,CL,01=08=1989,M,Bangladesh,4.0,Airflow:Confluent Kafka:Azure:Spark
+48,Abdullah,B-20,true,122000,abdullah@aol.com,NY,02=08=1987,M,Palestine,3.0,Hadoop:Hive:Google Cloud:Python
+49,Yusuf,B-20,Dropout,0,yusuf@gmail.com,CL,03=08=1989,M,Bangladesh,3.8,Java:Spark:Kafka:Scala:Github
+50,Arnov,B-20,Dropout,0,arnov@yahoo.com,NY,04=08=1991,M,Bangladesh,2.2,Spark:Kafka:NiFi:Aws
+51,Foysol,B-20,true,120000,foysol@gmail.com,NJ,05=08=1988,M,Bangladesh,2.0,Spark:Airflow:Aws:Kafka:Zeppelin
+52,Hareth,B-20,true,110000,hareth@gmail.com,NY,06=08=1998,M,Palestine,3.8,Databricks:NiFi:Java:Python:Hive
+53,Hasan,B-22,Dropout,0,hasan@yahoo.com,FL,07=11=1999,M,Bangladesh,3.2,Kafka:Python:Sqoop:Docker
+54,Pablu,B-22,On Market,0,pablu@gmail.com,NY,08=08=1982,M,Bangladesh,3.9,Airflow:Confluent Kafka:Azure:Spark
+55,Kamal,B-22,true,0,kamal@aol.com,CT,09=08=1992,M,Bangladesh,4.5,Hadoop:Hive:Google Cloud:Python
+56,Lipu,B-22,On Market,0,lipu@gmail.com,NY,10=08=1983,M,Bangladesh,2.0,Java:Spark:Kafka:Scala:Github
+57,Mumin,B-22,On Market,0,mumin@yahoo.com,TX,11=08=2001,M,Bangladesh,3.6,Spark:Kafka:NiFi:Aws
+58,Palash,B-22,On Market,0,palash@gmail.com,NY,12=08=1941,M,Bangladesh,3.5,Databricks:NiFi:Java:Python:Hive
+59,Shourav,B-22,true,0,shourov@yahoo.com,FL,13=08=1999,M,Bangladesh,3.9,Kafka:Python:Sqoop:Docker
+60,Samiha,B-22,true,0,samiha@gmail.com,NY,14=08=1967,F,Bangladesh,4.5,Airflow:Confluent Kafka:Azure:Spark
+101,Robin,B-22,Dropout,0,robin@gmail.com,NY,11=01=1965,F,India,3.0,Hadoop:Hive:Google Cloud:Python
+61,Faruk,B-23,On Market,0,faruk@yahoo.com,NJ,15=11=1971,M,Bangladesh,1.5,Java:Spark:Kafka:Scala:Github
+62,Rafi,B-23,On Market,0,rafi@gmail.com,NY,26=06=1987,M,Bangladesh,4.8,Spark:Kafka:NiFi:Aws
+63,Mehrab,B-23,On Market,0,mehrab@aol.com,NJ,01=09=1985,M,Bangladesh,3.2,Databricks:NiFi:Java:Python:Hive
+64,Nusrat,B-23,On Market,0,nusrat@yahoo.com,CL,02=09=1998,F,Bangladesh,3.5,Kafka:Python:Sqoop:Docker
+65,Fabliha,B-23,On Market,0,fabliha@gmail.com,FL,03=09=1983,F,Bangladesh,3.6,Airflow:Confluent Kafka:Azure:Spark
+66,Rashed,B-23,On Market,0,rashed@yahoo.com,CT,04=09=1997,M,Bangladesh,4.0,Hadoop:Hive:Google Cloud:Python
+67,Shehela,B-23,true,0,shehela@rediff.com,NJ,05=09=1995,F,Bangladesh,3.5,Java:Spark:Kafka:Scala:Github
+68,Israt,B-23,true,0,israt@gmail.com,NY,06=09=1981,F,Bangladesh,3.5,Spark:Airflow:Aws:Kafka:Zeppelin
+69,Farhan,B-23,On Market,0,farhan@yahoo.com,CT,07=09=1980,M,Bangladesh,3.2,Spark:Airflow:Aws:Kafka:Zeppelin
+70,Halima,B-25,true,0,halima@aol.com,CL,09=11=1982,F,Bangladesh,3.6,Spark:Kafka:NiFi:Aws
+71,Milon,B-25,On Market,0,milon@yahoo.com,CT,10=09=1987,M,Bangladesh,3.0,Databricks:NiFi:Java:Python:Hive
+72,Hasan,B-25,true,0,hasan@gmail.com,NY,13=09=1983,M,Bangladesh,4.5,Kafka:Python:Sqoop:Docker
+73,Sundus,B-25,On Market,0,sundus@gmail.com,NY,12=09=1986,F,Palestine,3.8,Airflow:Confluent Kafka:Azure:Spark
+74,Rupak,B-25,true,0,rupak@aol.com,NY,15=09=1998,M,Bangladesh,4.0,Hadoop:Hive:Google Cloud:Python
+75,Moe,B-25,On Market,0,moe@rediff.com,NJ,18=09=1982,M,Palestine,2.5,Java:Spark:Kafka:Scala:Github
+76,Yazan,B-25,true,0,yazan@aol.com,VI,16=09=1998,M,Palestine,1.5,Spark:Kafka:NiFi:Aws
+77,Kiron,B-25,true,0,kiron@gmail.com,CT,17=09=1981,M,Bangladesh,3.8,Spark:Airflow:Aws:Kafka:Zeppelin
+81,Rabiul,B-29,Learning,0,rabiul@yahoo.com,NY,09=10=1982,M,Bangladesh,3.8,Databricks:NiFi:Java:Python:Hive
+82,Emon,B-29,Learning,0,emon@aol.com,FL,11=08=1975,M,Bangladesh,3.5,Kafka:Python:Sqoop:Docker
+83,Parvez,B-29,Learning,0,parvez@gmail.com,NY,12=11=1990,M,Bangladesh,4.8,Java:Spark:Kafka:Scala:Github
+84,Mahmudur,B-29,Learning,0,mk@yahoo.com,TX,09=10=1985,M,Bangladesh,3.8,Spark:Airflow:Aws:Kafka:Zeppelin
+85,Sadia,B-29,Learning,0,sadia@msn.com,CT,10=12=1990,F,Bangladesh,2.5,Spark:Kafka:NiFi:Aws
+86,Urbi,B-29,Learning,0,urbi@gmail.com,NY,23=12=1980,M,Bangladesh,3.9,Spark:Airflow:Aws:Kafka:Zeppelin
+87,Mahim,B-29,Learning,0,mahim@aol.com,VI,28=11=1990,M,Bangladesh,3.5,Databricks:NiFi:Java:Python:Hive
+88,Udoy,B-29,Learning,0,udoy@msn.com,NJ,11=09=1980,M,Bangladesh,3.5,Kafka:Python:Sqoop:Docker
+89,Ehsan,B-29,Learning,0,ehsan@gmail.com,NY,05=09=1980,M,Bangladesh,3.5,Airflow:Confluent Kafka:Azure:Spark
+102,Umesh,B-29,Learning,0,umesh@yahoo.com,NY,02=01=1975,M,Nepal,4.3,Hadoop:Hive:Google Cloud:Python
+90,Adnan,B-17,true,115000,adnan@gmail.com,NY,30=06=1982,M,Bangladesh,4.2,Java:Spark:Kafka:Scala:Github
+91,Robin,B-30,Learning,0,robin@gmail.com,FL,04=10=1982,M,Bangladesh,3.5,Spark:Kafka:NiFi:Aws
+92,Rintu,B-30,Learning,0,rintu@yahoo.com,NY,10=07=1972,M,Bangladesh,3.7,Spark:Airflow:Aws:Kafka:Zeppelin
+93,Redhoy,B-30,Learning,0,redhoy@msn.com,TX,03=08=1971,M,Bangladesh,2.0,Databricks:NiFi:Java:Python:Hive
+15,Araf,B-30,On Market,0,araf@gmail.com,NY,31=10=1987,M,Bangladesh,4.1,Spark:Airflow:Aws:Kafka:Zeppelin
+94,Ivy,B-30,Learning,0,ivy@aol.com,TX,06=11=1982,F,Bangladesh,3.3,Kafka:Python:Sqoop:Docker
+95,Shammy,B-30,Dropout,0,shammy@gmail.com,FL,09=10=1982,F,Bangladesh,2.5,Airflow:Confluent Kafka:Azure:Spark
+96,Reshma,B-30,Dropout,0,reshma@yahoo.com,CT,12=11=1978,F,Bangladesh,2.5,Hadoop:Hive:Google Cloud:Python
+97,Islam,B-30,Learning,0,islam@yahoo.com,VI,11=12=1980,M,Bangladesh,3.9,Java:Spark:Kafka:Scala:Github
+98,Surpreet,B-30,Learning,0,surpreet@yahoo.com,TX,12=09=1991,F,India,3.6,Spark:Kafka:NiFi:Aws
+99,Anis,B-30,Learning,0,anis@gmail.com,NY,09=01=1981,M,Bangladesh,3.5,Spark:Airflow:Aws:Kafka:Zeppelin
+100,Liton,B-32,Learning,0,liton@gmail.com,FL,08=06=1990,M,Bangladesh,3.8,Databricks:NiFi:Java:Python:Hive
+101,Sammy,B-32,Learning,0,sammy@aol.com,TX,03=02=1980,M,Palestine,3.6,Kafka:Python:Sqoop:Docker
+102,Samuel,B-32,Learning,0,samuel@gmail.com,FL,11=06=1990,M,"Puerto Rico",4.5,Airflow:Confluent Kafka:Azure:Spark
+103,Sanjoy,B-32,Learning,0,sonjoy@yahoo.com,FL,12=11=1995,M,Bangladesh,3.8,Hadoop:Hive:Google Cloud:Python
+104,Anwar,B-32,Learning,0,anwar@gmail.com,NJ,07=06=1980,M,Palestine,3.2,Java:Spark:Kafka:Scala:Github
+105,Shimul,B-32,Learning,0,shimul@gmail.com,MI,11=03=1987,M,Bangladesh,4.3,Spark:Kafka:NiFi:Aws
+106,Israt,B-32,Learning,0,nitu@gmail.com,NY,08=06=1960,F,Bangladesh,3.8,Hadoop:Hive:Google Cloud:Python
+107,Asaad,B-32,Learning,0,asaad@msn.com,MI,09=06=1992,M,Palestine,3.5,Airflow:Confluent Kafka:Azure:Spark
+108,Prince,B-32,Learning,0,prince@gmail.com,NY,21=02=1990,M,Bangladesh,1.5,Kafka:Python:Sqoop:Docker
+109,Zuha,B-32,Learning,0,zuha@hotmail.com,FL,18=03=1970,M,Bangladesh,3.6,Databricks:NiFi:Java:Python:Hive
+110,Bruce,B-34,Learning,0,bruce@gmail.com,NY,12=01=1999,M,Dominican Republic,3.7,Hadoop:Hive:Google Cloud:Python
+111,Minhazul,B-34,Learning,0,minhazul@yahoo.com,TX,09=01=1980,M,Bangladesh,4.1,Airflow:Confluent Kafka:Azure:Spark
+112,Noman,B-34,Learning,0,noman@gmail.com,FL,10=09=1998,M,Pakistan,3.4,Spark:Kafka:NiFi:Aws
+113,Tushar,B-34,Learning,0,tushar@aol.com,CA,07=10=1999,M,Bangladesh,4.1,Databricks:NiFi:Java:Python:Hive
